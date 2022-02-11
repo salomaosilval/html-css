@@ -1,0 +1,13 @@
+body {
+    background-color: #132e4c;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.container img{
+    background-color: white;
+    border-radius: 50%;
+}
